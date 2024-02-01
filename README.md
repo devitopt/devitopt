@@ -8,7 +8,7 @@
   <img src="https://github.com/danieljin0715/danieljin0715/blob/main/divider1.png" alt="divider"/>
 </div> 
 
-<h3 align="center"><img src="https://github.com/danieljin0715/danieljin0715/blob/main/code.gif" height="20"/>Tech & Tools</h3>
+<h3 align="center"><img src="https://github.com/danieljin0715/danieljin0715/blob/main/code.gif" height="20"/> Tech & Tools</h3>
 
 <div align="center" style="witdh:100%"> 
   <table>
