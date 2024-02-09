@@ -22,12 +22,11 @@
         <img src="https://img.shields.io/badge/Vue-blue" /> 
         <img src="https://img.shields.io/badge/Next-blue" /> 
         <img src="https://img.shields.io/badge/Nuxt-blue" /> 
-        <img src="https://img.shields.io/badge/JavaScript-blue" /> 
+        <!-- <img src="https://img.shields.io/badge/JavaScript-blue" />  -->
         <img src="https://img.shields.io/badge/TypeScript-blue" />
         <img src="https://img.shields.io/badge/Flutter-blue" />  
-        <img src="https://img.shields.io/badge/Chart.js-blue" />
-        <img src="https://img.shields.io/badge/Bootstrap-blue" /> 
-        <img src="https://img.shields.io/badge/Tailwind-blue" /> 
+        <!-- <img src="https://img.shields.io/badge/Chart.js-blue" /> -->
+        <img src="https://img.shields.io/badge/ReactNative-blue" />  
       </td>      
       <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/Node.js-blue" /> 
@@ -43,12 +42,14 @@
       </td>
       <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/AWS-blue" /> 
-        <img src="https://img.shields.io/badge/CI/CD-blue" /> 
+        <!-- <img src="https://img.shields.io/badge/CI/CD-blue" />  -->
         <img src="https://img.shields.io/badge/Docker-blue" />
         <img src="https://img.shields.io/badge/MySQL-blue" /> 
-        <img src="https://img.shields.io/badge/NoSQL-blue" /> 
+        <!-- <img src="https://img.shields.io/badge/NoSQL-blue" />  -->
         <img src="https://img.shields.io/badge/MongoDB-blue" /> 
-        <img src="https://img.shields.io/badge/PostgreSQL-blue" />  
+        <img src="https://img.shields.io/badge/Bootstrap-blue" /> 
+        <img src="https://img.shields.io/badge/Tailwind-blue" /> 
+        <!-- <img src="https://img.shields.io/badge/PostgreSQL-blue" />   -->
         <!-- <img src="https://img.shields.io/badge/TDD-blue" />  -->
         <img src="https://img.shields.io/badge/Jira-blue" /> 
         <img src="https://img.shields.io/badge/Tezos-blue" /> 
