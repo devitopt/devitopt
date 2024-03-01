@@ -1,8 +1,8 @@
 <h1 align="center">
-  Professional Full-stack & Web3 Developer
+  Professional Full Stack & Web3 Developer
 </h1>
 <!-- <h3 align="center">
-  I am a Blockchain & Frontend Developer.
+  I am a Full Stack & Web3 Developer.
 </h3>
 <div align="center">
   <img src="https://github.com/danieljin0715/danieljin0715/blob/main/divider1.png" alt="divider"/>
