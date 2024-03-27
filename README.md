@@ -5,9 +5,9 @@
   I am a Full Stack & Web3 Developer.
 </h3>
 <div align="center">
-  <img src="https://github.com/danieljin0715/danieljin0715/blob/main/divider1.png" alt="divider"/>
+  <img src="https://github.com/devitopt/devitopt/blob/main/divider1.png" alt="divider"/>
 </div>  -->
-<h3 align="center"><img src="https://github.com/danieljin0715/danieljin0715/blob/main/code.gif" height="20"/> Tech & Tools</h3>
+<h3 align="center"><img src="https://github.com/devitopt/devitopt/blob/main/code.gif" height="20"/> Tech & Tools</h3>
 <div align="center" style="witdh:100%"> 
   <table>
     <tr>
@@ -35,14 +35,14 @@
         <img src="https://img.shields.io/badge/Laravel-blue" /> 
         <img src="https://img.shields.io/badge/PHP-blue" /> 
         <!-- <img src="https://img.shields.io/badge/Django-blue" />  -->
-        <!-- <img src="https://img.shields.io/badge/Python-blue" />  -->
+        <img src="https://img.shields.io/badge/Python-blue" /> 
         <!-- <img src="https://img.shields.io/badge/Selenium-blue" />         -->
         <img src="https://img.shields.io/badge/Ruby-blue" /> 
         <img src="https://img.shields.io/badge/Rails-blue" /> 
       </td>
       <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/AWS-blue" /> 
-        <!-- <img src="https://img.shields.io/badge/CI/CD-blue" />  -->
+        <img src="https://img.shields.io/badge/CI/CD-blue" /> 
         <img src="https://img.shields.io/badge/Docker-blue" />
         <img src="https://img.shields.io/badge/MySQL-blue" /> 
         <!-- <img src="https://img.shields.io/badge/NoSQL-blue" />  -->
@@ -84,16 +84,16 @@
   </table>
 </div>
 <div align="center">
-  <img src="https://github.com/danieljin0715/danieljin0715/blob/main/divider2.png" alt="divider"/>
+  <img src="https://github.com/devitopt/devitopt/blob/main/divider2.png" alt="divider"/>
 </div> 
-<p align="center">
-  <!-- <a href="https://www.linkedin.com/in/danieljin0715" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a> -->
+<p align="center" style="display: none">
+  <!-- <a href="https://www.linkedin.com/in/devitopt" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a> -->
   <!-- &nbsp;&nbsp; -->
-  <a href="mailto:danieljin0715@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
+  <a href="mailto:devitopt@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://join.skype.com/invite/ESEvSfVkP4no" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <!-- <a href="https://t.me/danieljin0715" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a> -->
+  <!-- <a href="https://t.me/devitopt" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a> -->
   <!-- &nbsp;&nbsp; -->
   <a href="https://portfolio-daniel-jin.netlify.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
 </p>
