@@ -86,18 +86,18 @@
 <div align="center">
   <img src="https://github.com/devitopt/devitopt/blob/main/divider2.png" alt="divider"/>
 </div> 
-<p align="center" style="display: none">
-  <!-- <a href="https://www.linkedin.com/in/devitopt" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a> -->
-  <!-- &nbsp;&nbsp; -->
+<!-- <p align="center" style="display: none">
+  <a href="https://www.linkedin.com/in/devitopt" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a>
+  &nbsp;&nbsp;
   <a href="mailto:devitopt@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://join.skype.com/invite/ESEvSfVkP4no" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <!-- <a href="https://t.me/devitopt" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a> -->
-  <!-- &nbsp;&nbsp; -->
+  <a href="https://t.me/devitopt" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
+  &nbsp;&nbsp;
   <a href="https://portfolio-daniel-jin.netlify.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
 </p>
-<h2 align="center"> Thanks for visiting my profile. </h2>
+<h2 align="center"> Thanks for visiting my profile. </h2> -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
