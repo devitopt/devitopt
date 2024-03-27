@@ -52,7 +52,7 @@
         <!-- <img src="https://img.shields.io/badge/PostgreSQL-blue" />   -->
         <!-- <img src="https://img.shields.io/badge/TDD-blue" />  -->
         <img src="https://img.shields.io/badge/Jira-blue" /> 
-        <img src="https://img.shields.io/badge/Tezos-blue" /> 
+        <!-- <img src="https://img.shields.io/badge/Tezos-blue" />  -->
       </td>
     </tr>
   </table>
